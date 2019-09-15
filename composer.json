@@ -1,5 +1,5 @@
 {
-    "name": "rokde/gsales-api-client",
+    "name": "xmysteriox/gsales-api-client",
 	"type": "library",
     "description": "SOAP Client for consumin gSales API",
 	"keywords": ["gsales", "api", "soap", "client", "php"],
