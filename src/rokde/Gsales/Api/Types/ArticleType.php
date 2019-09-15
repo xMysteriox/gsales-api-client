@@ -45,4 +45,22 @@ class ArticleType extends Base implements IdentifierInterface
 	{
 		return $this->id;
 	}
+	
+	protected $artno;
+
+	/**
+	* @return mixed
+	*/
+	public function getArtNo()
+	{
+		return $this->artno;
+	}
+
+	/**
+	* @param mixed $art_no
+	*/
+	public function setArtNo($artno): void
+	{
+		$this->artno = $artno;
+	}
 }
