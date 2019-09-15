@@ -11,8 +11,7 @@
         }
     ],
     "require": {
-	    "php": ">=5.4",
-	    "ext-soap": "*"
+	    "php": ">=5.4"
     },
 	"require-dev": {
 		"symfony/console": "v2.3.12"
